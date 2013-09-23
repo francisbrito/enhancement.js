@@ -6,7 +6,7 @@ A collection of JavaScript method I'd like to see implemented.
 Strings
 -------
 
-* [ ] String.format
+* [x] String.format
 
 Object
 ------
